@@ -1,0 +1,64 @@
+link,ios,android,error
+1121ventures.com,,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+303.digital,,,
+3dmobimaps.com,,,
+3xbholdings.com,,,
+4kweeks.com,,,
+5g-solutions.com,,,
+8quaker.com,,,"HTTPConnectionPool(host='8quaker.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6de66a50>: Failed to resolve '8quaker.com' ([Errno -5] No address associated with hostname)""))"
+abbybekah.com,,,
+ablenetworking.com,,,"('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+ackleyshack.com,,,
+acsmithjr.com,,,
+adamknepprath.com,,,"HTTPConnectionPool(host='adamknepprath.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c49e950>: Failed to resolve 'adamknepprath.com' ([Errno -5] No address associated with hostname)""))"
+addicks.us,,,"HTTPConnectionPool(host='addicks.us', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c49d310>: Failed to resolve 'addicks.us' ([Errno -5] No address associated with hostname)""))"
+adipmeansresources.com,,,"HTTPConnectionPool(host='adipmeansresources.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c49cb10>: Failed to resolve 'adipmeansresources.com' ([Errno -2] Name or service not known)""))"
+aeroatlanta.com,,,
+agasupport.com,,,
+agilegs.compage/mobile-app-development,,,"HTTPConnectionPool(host='agilegs.compage', port=80): Max retries exceeded with url: /mobile-app-development (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c31d450>: Failed to resolve 'agilegs.compage' ([Errno -2] Name or service not known)""))"
+agilegs.compage/mobile-app-development,,,"HTTPConnectionPool(host='agilegs.compage', port=80): Max retries exceeded with url: /mobile-app-development (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c31c250>: Failed to resolve 'agilegs.compage' ([Errno -2] Name or service not known)""))"
+agilegs.compage/mobile-app-development,,,"HTTPConnectionPool(host='agilegs.compage', port=80): Max retries exceeded with url: /mobile-app-development (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6bfbdf90>: Failed to resolve 'agilegs.compage' ([Errno -2] Name or service not known)""))"
+agilegs.compage/mobile-app-development,,,"HTTPConnectionPool(host='agilegs.compage', port=80): Max retries exceeded with url: /mobile-app-development (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6bfbe890>: Failed to resolve 'agilegs.compage' ([Errno -2] Name or service not known)""))"
+agilegs.com,,,
+akumoproject.com,,,"HTTPConnectionPool(host='akumoproject.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c8ce850>: Failed to resolve 'akumoproject.com' ([Errno -5] No address associated with hostname)""))"
+albertsolino.com,,,
+alexpaterson.scot,,,"HTTPSConnectionPool(host='alexpaterson.scot', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1006)')))"
+alicearlene.com,,,
+allagesofgeek.com,,,
+alliancetransfer.com,,,
+allude.ai,,,
+altawares.com,,,"HTTPSConnectionPool(host='www.altawares.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, ""[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.altawares.com'. (_ssl.c:1006)"")))"
+alumni.marymount.edu,,,"HTTPSConnectionPool(host='alumni.marymount.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1006)')))"
+amatra17.org.br,,,
+amicihomes.co,,,"HTTPConnectionPool(host='amicihomes.co', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6cb16350>: Failed to resolve 'amicihomes.co' ([Errno -2] Name or service not known)""))"
+andeanlabs.com,,,
+andrewdai.co,,,
+andyfreeland.com,,,
+annexusit.com,,,
+anthropal.com,,https://play.google.com/store/apps/details?id=com.kraynium&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1,
+aocdesign.us,,,"HTTPConnectionPool(host='aocdesign.us', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6c36d3d0>: Failed to resolve 'aocdesign.us' ([Errno -5] No address associated with hostname)""))"
+cahabadentalarts.com,,,
+cahabapain.com,,,
+cahillinteractive.com,,,
+cahillwealth.com,,,
+cahootster.com,,,"HTTPConnectionPool(host='cahootster.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6caf78d0>: Failed to resolve 'cahootster.com' ([Errno -2] Name or service not known)""))"
+caibear.com,,,
+caidenn.com,,,
+cainlevy.net,,,
+cainsnihur.com,,,
+caintechservices.com,,,
+caiptn.com,,,
+cairlondon.com,https://apps.apple.com/gb/app/cair-london/id6475166679,https://play.google.com/store/apps/details?id=com.cairlondon&pli=1,
+cairn.com,,,
+cairncarto.com,,,
+cairnme.com,,https://play.google.com/store/apps/details?id=com.cairnapp.cairn,
+caiso.com,,,"HTTPConnectionPool(host='caiso.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6bfe7e50>: Failed to resolve 'caiso.com' ([Errno -5] No address associated with hostname)""))"
+caisol.com,,,
+caisse.com,,,
+caivis.com,,,
+cajobunig.com,,,"HTTPConnectionPool(host='cajobunig.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6cc51e10>: Failed to resolve 'cajobunig.com' ([Errno -3] Temporary failure in name resolution)""))"
+cajuninnovation.com,,,"HTTPConnectionPool(host='cajuninnovation.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x761d6d393690>, 'Connection to cajuninnovation.com timed out. (connect timeout=60)'))"
+cajunlodging.com,,,"HTTPConnectionPool(host='cajunlodging.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPConnection object at 0x761d6e735950>: Failed to resolve 'cajunlodging.com' ([Errno -5] No address associated with hostname)""))"
+cake.com,,,
+http://www.cakeaide.com/#download,,,"HTTPSConnectionPool(host='cakeaide.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x761d4a48fcd0>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
+http://www.cakeaide.com/#download,,,"HTTPConnectionPool(host='www.cakeaide.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x761d4a499550>: Failed to establish a new connection: [Errno 101] Network is unreachable'))"
